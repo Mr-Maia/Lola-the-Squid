@@ -25,12 +25,6 @@ To run the game:
 
 ## Contributions
 
-Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
+made with diogojcadete and Gonçalo Evaristo
 
-## Contact
 
-For any questions or issues related to the project, please contact [Your Name] at [Your Email Address].
-
----
-
-This brief README provides essential information about your Space Invaders-style assembly game, making it easy for users to understand how to play and get started with the project.
